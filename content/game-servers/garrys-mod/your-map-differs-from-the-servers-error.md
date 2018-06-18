@@ -12,12 +12,13 @@ The "Your map differs from the server" error is produced when a player tries to 
 6. Attempt to connect to the server.
 
 ##### If the issue persists:
-1. Navigate to your Steam directory.
+1. Unsubscribe from the Workshop Addon for the map on Steam.
+2. Navigate to your Steam directory.
 	*For example C:\Program Files (x86)\Steam
-2. From there, navigate to ``steamapps/common/GarrysMod/garrysmod/downloads/server``.
-3. Delete the contents of the folder.
+3. From there, navigate to ``steamapps/common/GarrysMod/garrysmod/downloads/server``.
+4. Delete the contents of the folder.
 	*Note: This **removes** all files you have installed from any server, as a result you will redownload everything upon joining a server.
-4. Reconnect to the server.
+5. Reconnect to the server.
 
 #### Method - For the Server Owner
 1. Navigate to the [Game Panel](https://gamepanel.hexanenetworks.com) and proceed to login.
