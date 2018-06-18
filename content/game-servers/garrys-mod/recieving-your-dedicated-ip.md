@@ -5,6 +5,4 @@ Your server will be assigned a dedicated IP address which is only used on your s
 1. Login to the [Billing Area](https://billing.hexanenetworks.com/clientarea.php).
 2. Navigate to [Submit a Ticket](https://billing.hexanenetworks.com/submitticket.php)
 3. Select the **Technical** department.
-4. Fill out the ticket appropriately:
-	*Provide the IP of the server you would like the Dedicated IP applied to
-	*Provide the port you want your server on
+4. Fill out the ticket appropriately providing the IP of the server you would like the Dedicated IP applied to and providing the port you want your server on.
