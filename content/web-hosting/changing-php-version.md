@@ -4,7 +4,7 @@ Changing the PHP version allows you to specify PHP version for the root domain o
 #### How to change the PHP version of your website
 1. Login to [CPanel](https://cpanel.hexanenetworks.com) by doing one of the following:
 	*using the login information provided in the **Web Hosting Information** email
-	*using the CPanel shortcut in the [Client Area](https://billing.hexanenetworks.com/)
+	*using the CPanel shortcut in the [Billing Area](https://billing.hexanenetworks.com/)
 2. Once you are in CPanel search for **MultiPHP Manager** in the search bar and click on the appropriate result.
 3. From here, tick the box next to the domain/subdomain that you want to change the PHP version for.
 4. To the right of the panel click the drop down and select the PHP version you want to change the ticked domains/subdomains to.
