@@ -15,6 +15,7 @@ Updating your Garry's Mod server is a simple process which will only take a few 
 
 ## Frequently Asked Questions (FAQ)
 <br>
+
 #### Why would I need to update my server?
 Garry's Mod is frequently updated with new features, bug fixes and performance changes. Therefore, updating your server is **required** when a new version of the game is released.
 
