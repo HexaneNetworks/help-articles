@@ -1,10 +1,10 @@
 #### What does this do?
 
-This allows you to take an internet speedtest of your server running Ubuntu 16.04, via the command line.
+This allows you to take an internet speedtest of your server running [Ubuntu 16.04](http://releases.ubuntu.com/16.04/), via the command line.
 
 #### Installing
 
-1. Login to your Ubuntu 16.04 Server via SSH (we recommend PuTTY)
+1. Login to your [Ubuntu 16.04 Server](http://releases.ubuntu.com/16.04/) via SSH (we recommend using [PuTTY](https://www.putty.org/))
 2. Run the command `sudo apt install speedtest-cli`
 
 #### Usage (Running a Speedtest)
