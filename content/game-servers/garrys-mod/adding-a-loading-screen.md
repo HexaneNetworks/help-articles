@@ -21,3 +21,4 @@
 7. Restart the map or server.
 
 #### Example
+![Adding a loading screen](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/png/example-loading.png)
