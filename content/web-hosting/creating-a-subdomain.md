@@ -8,3 +8,6 @@ Changing a subdomain would change ``hexanenetworks.com/cpanel`` to ``cpanel.hexa
 3. In the **Subdomain** field input your desired domain prefix, for example: ``cpanel``.
 4. In the **Domain** drop down menu select the domain you wish to add the subdomain to.
 5. In the **Document Root** field input the location of the page you want the subdomain to link to, for example ``/public_html/cpanel/``.
+
+#### Example
+![Example Subdomain Creation](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/png/creating-a-subdomain.png)
