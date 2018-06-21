@@ -15,7 +15,7 @@ We write our articles and push them to this repository, which are then cloned au
 
 # What can I do with this? 
 
-You are free to use these as a guide to follow. We do allow you to use these on your projects, however, you must **state the source** of were they where from originally (link to this repository).
+You are free to use these as a guide to follow. We do allow you to use these on your projects, however, you must **state the source** of where they were from originally (link to this repository).
 
 # What's this file format?
 
