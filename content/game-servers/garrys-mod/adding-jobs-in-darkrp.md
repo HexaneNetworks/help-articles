@@ -27,3 +27,6 @@
 7. Copy and paste the job you have created into the ``jobs.lua`` file under the line which states: **"Add jobs under the following line"**.
 8. Proceed to save the file.
 9. Restart the map or server.
+
+#### Example Job
+![Job Example](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/png/example-job.png)
