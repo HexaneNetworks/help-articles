@@ -8,5 +8,10 @@ Any damage caused by a sub-user is your responsibility, it's highly advised you 
 2. Navigate to **User Management** by clicking the tab on the left side of your screen.
 3. Click the **Create a User** button.
 4. Proceed to input a username and password for the sub-user.
-5. Tick the permissions you would like to give the sub-user.
-6. The sub-user will be able to sign in to your service at the [Game Panel](https://gamepanel.hexanenetworks.com).
+5. In the **Profile** tab you can fill out any personal information regarding the Sub User - however this isn't required.
+6. In the **Game/Voice Service Permissions** you can provide the sub-user with various permissions.
+7. Click the **Service** drop-down and select the server you want to tweak the sub-users permissions for.
+8. Apply the permissions you want to the user to have.
+9. In order for the sub-user to access the gamepanel they must have the **Access to this service** permission.
+10. Once you have tweaked the permissions to your liking, proceed to click the **Save** button along the red bar.
+10. The sub-user will be able to sign in to your service at the [Game Panel](https://gamepanel.hexanenetworks.com).
