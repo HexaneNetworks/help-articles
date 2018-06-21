@@ -8,3 +8,6 @@ Changing the PHP version allows you to specify PHP version for the root domain o
 4. To the right of the panel click the drop down and select the PHP version you want to change the ticked domains/subdomains to.
 5. Example: ea-php56 = PHP 5.6, ea-php70 = PHP 7.0
 6. Click Apply.	
+
+#### Example
+![Changing PHP Version](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/png/changing-php-version.png)
