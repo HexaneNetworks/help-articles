@@ -12,3 +12,4 @@ You will need both ULX and ULib installed on your Garry's Mod server, you can in
 5. In-game type ``!menu`` in chat and it will bring up the ULX menu containing all the commands you now have access to.
 
 #### Example
+![Setting yourself to Superadmin through ULX](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/png/superadmin-command.png)
