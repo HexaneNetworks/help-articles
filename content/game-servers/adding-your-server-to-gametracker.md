@@ -1,5 +1,6 @@
 #### Requirements
 You will need an active game service and an account with Gametracker.
+Your server must be online.
 
 #### What is Gametracker?
 Gametracker is a website that provides a server list for a large variety of games.
