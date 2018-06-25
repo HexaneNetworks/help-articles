@@ -1,6 +1,9 @@
 #### What does changing the PHP version allow you to do?
 Changing the PHP version allows you to specify PHP version for the root domain or any sub-domains, doing this allows you to run PHP applications that require an older or a newer PHP version. PHP 5.6 and PHP 7 are the most commonly used - these are listed as **ea-php56** or **ea-php70** in the MultiPHP Manager. 
 
+#### What's the default PHP Version?
+We ship each web hosting account with **PHP 7.0** by default.
+
 #### How to change the PHP version of your website
 1. Login to [CPanel](https://cpanel.hexanenetworks.com) by doing one of the following: using the login information provided in the **Web Hosting Information** email or using the CPanel shortcut in the [Billing Area](https://billing.hexanenetworks.com/)
 2. Once you are in CPanel search for **MultiPHP Manager** in the search bar and click on the appropriate result.
