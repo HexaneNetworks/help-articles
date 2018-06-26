@@ -1,5 +1,6 @@
 #### What are Scheduled Tasks?
-Scheduled tasks provide you with the ability to create a task that your server needs to carry out at pre-defined times.
+Scheduled tasks in TCAdmin provide you with the ability to create a task that your server needs to carry out at pre-defined times.
+Many of our clients use Scheduled Tasks to restart their Garry's Mod server overnight.
 
 #### Method
 1. Navigate to the [Game Panel](https://gamepanel.hexanenetworks.com) and proceed to login.
