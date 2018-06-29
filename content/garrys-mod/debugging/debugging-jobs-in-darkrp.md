@@ -2,7 +2,7 @@
 Debugging is to identify and remove errors from code. In this context - you're going to learn how to correct errors in job code.
 
 #### Common errors that indicate an error in a DarkRP job
-``The player's name is <name>, their team number is "1001", which has the name "Unassigned"``
+``The player's name is <name>, their team number is "1001", which has the name "Unassigned"``  
 ``[ERROR] gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua:740: attempt to index local 'jobTable' (a nil value)``
 
 These errors may appear in the web console or in the in-game console. It's advised you check both.
