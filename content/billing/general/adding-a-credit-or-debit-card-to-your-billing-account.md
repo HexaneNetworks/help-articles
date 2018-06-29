@@ -7,3 +7,6 @@ Click [Here](https://billing.hexanenetworks.com/clientarea.php?action=creditcard
 Adding a Credit/Debit card to your Billing Account Web Page Example
 
 ![Adding a Credit/Debit card to your Billing Account](https://github.com/HexaneNetworks/help-assets/blob/master/assets/png/adding-a-credit-or-debit-card-to-your-billing-account.png?raw=true)
+
+Related Articles:
+- [Removing A Credit Or Debit Card To Your Billing Account](https://help.hexanenetworks.com/billing/general/removing-a-credit-or-debit-card-to-your-billing-account)
