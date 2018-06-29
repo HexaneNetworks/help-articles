@@ -11,3 +11,6 @@ You'll see this error in the servers web console if you have this problem: `engi
 5. Create or edit the commandline 
 6. Tick the box to left side of the text ``hunkalloclightmaps``
 7. Save and proceed to restart the server
+
+#### Example
+![Engine Hunk Overflow](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/png/hunkalloclightmaps.png)
