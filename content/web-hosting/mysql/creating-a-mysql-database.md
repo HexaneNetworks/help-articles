@@ -7,6 +7,7 @@ MySQL databases are used for managing large amounts of information and data over
 ![Finding MySQL Databases](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/png/finding-mysql.png)
 3. Under the **Create New Database** section input a unique name in the field labeled **New Database**.
 4. In front of the **New Database** field is your username followed by an underscore, for example: if your username was ``hexane`` and you inputted ``database`` the database name would be: ``hexane_database``.
+5. Click **Create Database**.
 
 #### Example
 ![Creating a Database](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/png/creating-a-database.png)
