@@ -1,6 +1,6 @@
 #### What does reinstalling your gameserver do?
 Reinstalling your game server is the process of restoring its files to the default files of your game server.
-This will remove all customization's that have been made to the server, and all progress will be lost.
+This will remove all customizations that have been made to the server, and all progress will be lost.
 
 **NOTE: Reinstalling your server CAN NOT be reversed**
 
