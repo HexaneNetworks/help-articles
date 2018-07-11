@@ -14,4 +14,4 @@ This will remove all customizations that have been made to the server, and all p
 7. After clicking this, the process will begin. Upon receiving a confirmation email, refresh your page and the reinstallation process will be completed.
 
 #### Images
-![Actions section](https://raw.githubusercontent.com/HexaneNetworks/help-assets/d999f470b8904e9fdbda413f6e3e603b377e2032/assets/png/reinstalling-your-game-server.png)
+![Actions section](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/png/reinstalling-your-game-server.png)
