@@ -29,6 +29,7 @@ We're currently not looking for additional authors, however, we may be soon if y
 
 * [Hyrogenic](https://steamcommunity.com/id/Hyrogenic) - Core Node.js & Design Developer + Help Articles Author
 * [havasu](https://steamcommunity.com/id/havasu) - Help Articles Author
+* [viction](https://steamcommunity.com/id/hasnt) - Help Articles Author
 
 # License
 
