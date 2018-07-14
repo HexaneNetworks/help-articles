@@ -13,14 +13,15 @@ When players join your server, during the loading process they will download the
 
 #### Uploading and synchronizing the map (Game Panel)
 1. Navigate to the [Game Panel](https://gamepanel.hexanenetworks.com) and proceed to login.
-2. Navigate to the **File Manager**.
-3. Navigate to the ``garrysmod/maps`` directory.
-4. Click the **Upload** button and proceed to upload the map.
+2. Click on **Game Services** button and if prompted select the server you would like to change the name of.
+3. Navigate to the **File Manager**.
+4. Navigate to the ``garrysmod/maps`` directory.
+5. Click the **Upload** button and proceed to upload the map.
 ![Upload location](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/png/uploading-map-gamepanel.png)
-5. Return to the [Game Panel](https://gamepanel.hexanenetworks.com).
-6. Click the **Fast Downloads Sync** button.
-7. Wait until the console states that the synchronization has finished, this may take a while.
-8. Restart your server.
+6. Return to the [Game Panel](https://gamepanel.hexanenetworks.com).
+7. Click the **Fast Downloads Sync** button.
+8. Wait until the console states that the synchronization has finished, this may take a while.
+9. Restart your server.
 
 #### Uploading and synchronizing the map (FTP)
 1. Login to your servers FTP using FileZilla or WinSCP - relevant videos can be found above.
