@@ -3,15 +3,17 @@ Mounting content does not provide all users with the content - it tells the user
 
 #### Method
 1. Navigate to the [Game Panel](https://gamepanel.hexanenetworks.com) and proceed to login.
-2. Navigate to the **Mod Manager**.
-3. Find ``Counter Strike: Source Content`` under the **Content** category.
-4. Click **Install** and wait for the download to finish.
-5. Navigate back to the homepage of the [Game Panel](https://gamepanel.hexanenetworks.com).
-5. Click **Restart**.
+3. Click on **Game Services** button and if prompted select the server you would like to change the name of.
+4. Navigate to the **Mod Manager**.
+5. Find ``Counter Strike: Source Content`` under the **Content** category.
+6. Click **Install** and wait for the download to finish.
+7. Navigate back to the homepage of the [Game Panel](https://gamepanel.hexanenetworks.com).
+8. Click **Restart**.
 
 #### How can I check if it is mounted?
 1. Navigate to the [Game Panel](https://gamepanel.hexanenetworks.com) and proceed to login.
-2. Navigate to **Configuration Files**.
-3. Click the **[ Text Editor ]** button next to the **mount.cfg** file.
-4. Your **mount.cfg** should look similar to the following image:
+2. Click on **Game Services** button and if prompted select the server you would like to change the name of.
+3. Navigate to **Configuration Files**.
+4. Click the **[ Text Editor ]** button next to the **mount.cfg** file.
+5. Your **mount.cfg** should look similar to the following image:
 ![Mount.cfg](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/png/is-x-mounted.png)
