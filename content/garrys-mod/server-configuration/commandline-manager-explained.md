@@ -15,9 +15,10 @@ The commandline manager for Garry's Mod allows you to edit and interact with the
 
 #### Reaching the Commandline Manager
 1. Navigate to the [Game Panel](https://gamepanel.hexanenetworks.com) and proceed to login.
-2. Navigate to the **Commandline Manager**.
-3. Click on the **Custom Commandlines** tab.
-4. Click **New** to create a new one or click **Edit** to edit an existing one.
+2. Click on **Game Services** button and if prompted select the server you would like to change the name of.
+3. Navigate to the **Commandline Manager**.
+4. Click on the **Custom Commandlines** tab.
+5. Click **New** to create a new one or click **Edit** to edit an existing one.
 
 #### Commandline options
 **Server Config** = Defines the file name of your ``server.cfg`` (This value is set by default, we advise against changing it)  
