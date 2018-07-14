@@ -5,7 +5,8 @@
 
 #### Reaching the Web Console
 1. Navigate to the [Game Panel](https://gamepanel.hexanenetworks.com) and proceed to login.
-2. Navigate to the **Web Console**.
+2. Click on **Game Services** button and if prompted select the server you would like to change the name of.
+3. Navigate to the **Web Console**.
 
 #### Location of Web Console Button
 ![Web Console Button](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/png/reaching-web-console.png)
