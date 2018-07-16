@@ -1,0 +1,3 @@
+Once the invoice affiliated to the service is marked as paid, our system will begin to set up your server automatically. This usually takes around 1-3 minutes. You will receive your server's information via email. 
+
+In rare cases, setup may fail. If you don't receive your login information (remember to check the spam folder) after 10 minutes, please [contact us](https://billing.hexanenetworks.com/submitticket.php) and we will resolve it promptly.
