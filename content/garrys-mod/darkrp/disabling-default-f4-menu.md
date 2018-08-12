@@ -3,7 +3,7 @@ When installing your own F4 menu, it is good practice to disable DarkRPs default
 
 #### Method
 1. Navigate to our [Game Panel](https://gamepanel.hexanenetworks.com/) and proceed to login.
-2. Click on the **Game Services** button.
+2. Click on the **Game Services** button and if prompted select the server you would like to disable the default F4 menu on.
 3. Navigate to the **File Manager**.
 4. Navigate to the `garrysmod/addons/darkrpmodification/lua/darkrp_config` and proceed to edit the `disabled_defaults.lua` file.
 5. Once you're editing the file, press **CTRL+F** and search for `DarkRP.disabledDefaults["modules"]`.
