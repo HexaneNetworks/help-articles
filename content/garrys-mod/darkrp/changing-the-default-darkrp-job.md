@@ -5,7 +5,7 @@ In addition to this, when a player is demoted they will be reverted back to this
 
 #### Method (Game Panel)
 1. Navigate to the [Game Panel](https://gamepanel.hexanenetworks.com) and proceed to login.
-2. Click on **Game Services** button and if prompted select the server you would change the default DarkRP job of.
+2. Click on **Game Services** button and if prompted select the server you would like to change the default DarkRP job of.
 3. Navigate to the **File Manager**.
 4. Navigate to the ``garrysmod/addons/darkrpmodification/lua/darkrp_customthings`` and proceed to edit the **jobs.lua** file.
 5. Scroll down to the line containing ``GAMEMODE.DefaultTeam = TEAM_CITIZEN``.
