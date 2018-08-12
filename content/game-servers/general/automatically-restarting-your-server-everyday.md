@@ -7,7 +7,7 @@ The **Start Date** conforms to the time zone listed in your **My Profile** secti
 
 #### Method
 1. Navigate to the [Game Panel](https://gamepanel.hexanenetworks.com) and proceed to login.
-2. Click on **Game Services** button and if prompted select the server you would like to change the name of.
+2. Click on **Game Services** button and if prompted select the server you would like the schedule a restart for.
 3. Navigate to the **Scheduled Tasks** tab.
 4. Click the **New** button.
 5. Select **Scheduled Restart** from the drop down menu.
