@@ -3,7 +3,7 @@ Disabling the default DarkRP jobs could be something you want to do if you have 
 
 #### Method
 1. Navigate to our [Game Panel](https://gamepanel.hexanenetworks.com/) and proceed to login.
-2. Click on the **Game Services** button.
+2. Click on the **Game Services** button and if prompted select the server you would like to disable the default jobs for.
 3. Navigate to the **File Manager**.
 4. Navigate to the `garrysmod/addons/darkrpmodification/lua/darkrp_config` and proceed to edit the `disabled_defaults.lua` file.
 5. Once you're editing the file, press **CTRL+F** and search for `DarkRP.disabledDefaults["jobs"]`.
