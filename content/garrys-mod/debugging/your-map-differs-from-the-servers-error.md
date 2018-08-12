@@ -22,7 +22,7 @@ The "Your map differs from the server" error is produced when a player tries to 
 
 #### Method - For the Server Owner
 1. Navigate to the [Game Panel](https://gamepanel.hexanenetworks.com) and proceed to login.
-2. Click on **Game Services** button and if prompted select the server you would like to change the name of.
+2. Click on **Game Services** button and if prompted select the server you would like to apply the fix to.
 3. Navigate to the **File Manager**
 4. Navigate to the ``garrysmod/maps`` directory.
 5. Proceed to rename the map that you are currently using on the server.

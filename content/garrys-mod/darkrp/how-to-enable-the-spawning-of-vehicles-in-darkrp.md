@@ -4,7 +4,7 @@ It allows the group of users you specified in the settings file to spawn entitie
 #### Method (Game Panel)
 1. Navigate to the [Game Panel](https://gamepanel.hexanenetworks.com) and 
 proceed to login.
-2. Click on the **Game Services** button.
+2. Click on the **Game Services** button and if prompted select the server you would like to enable the spawning of vehicles on.
 3. Navigate to the **File Manager**.
 4. Navigate to the ``garrysmod/addons/darkrpmodification/lua/darkrp_config`` and proceed to edit the **settings.lua** file.
 5. Once editing the file, press **CTRL+F** and search for: ``GM.Config.adminvehicles``.
