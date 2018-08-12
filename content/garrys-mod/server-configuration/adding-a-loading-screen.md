@@ -4,7 +4,7 @@
 
 #### Method 1 (Game Panel)
 1. Navigate to the [Game Panel](https://gamepanel.hexanenetworks.com) and proceed to login.
-2. Click on **Game Services** button and if prompted select the server you would like to change the name of.
+2. Click on **Game Services** button and if prompted select the server you would like to add a loading screen to.
 3. Navigate to **Configuration Files**.
 4. Edit the ``server.cfg`` file.
 5. Scroll to the bottom of the file.
