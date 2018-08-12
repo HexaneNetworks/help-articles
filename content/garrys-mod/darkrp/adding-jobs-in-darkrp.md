@@ -4,7 +4,7 @@
 
 #### Installing DarkRPModification
 1. Navigate to the [Game Panel](https://gamepanel.hexanenetworks.com) and proceed to login.
-3. Click on **Game Services** button and if prompted select the server you would like to change the name of.
+3. Click on **Game Services** button and if prompted select the server you would like to install DarkRPModification to.
 4. Navigate to the **Mod Manager**.
 5. Install **DarkRP Modifications** which can be found under the **DarkRP** section.
 
@@ -20,7 +20,7 @@
 
 #### Method 2 (Game Panel)
 1. Navigate to the [Game Panel](https://gamepanel.hexanenetworks.com) and proceed to login.
-2. Click on **Game Services** button and if prompted select the server you would like to change the name of.
+2. Click on **Game Services** button and if prompted select the server you would like to add jobs to.
 3. Navigate to the **File Manager**.
 4. Navigate to ``garrysmod/addons/darkrpmodification/lua/darkrp_customthings``.
 5. Open the file titled ``jobs.lua``.
