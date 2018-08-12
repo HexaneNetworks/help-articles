@@ -8,7 +8,7 @@ proceed to login.
 3. Navigate to the **File Manager**.
 4. From there, proceed to navigate to the `garrysmod/lua/autorun/server` directory.
 5. Create a file titled `disable_vehicle_collisions.lua`.
-6. Proceed to edit the file and paste the following script in:
+6. Proceed to paste the following script in:
 ```
 hook.Add("PlayerSpawnedVehicle","DisableCollisionVehicle", function(ply, ent)
   if IsValid(ent) then
@@ -19,3 +19,6 @@ end)
 7. Click the **Save** button.
 8. Navigate back to the [Game Panel](https://gamepanel.hexanenetworks.com).
 9. Restart your server.
+
+#### Example
+![](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/png/disable_vehicle_collisions.png)
