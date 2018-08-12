@@ -6,7 +6,7 @@ You will need both ULX and ULib installed on your Garry's Mod server, you can in
 
 #### Method
 1. Navigate to the [Game Panel](https://gamepanel.hexanenetworks.com) and proceed to login.
-2. Click on **Game Services** button and if prompted select the server you would like to change the name of.
+2. Click on **Game Services** button and if prompted select the server you would like to give yourself Superadmin on.
 3. Join your server.
 4. Navigate to the **Web Console**.
 5. Enter the following command: ``ulx adduser name superadmin``. Replace ``name`` with your Steam username.
