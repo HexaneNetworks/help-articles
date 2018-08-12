@@ -13,7 +13,7 @@ When players join your server, during the loading process they will download the
 
 #### Uploading and synchronizing the map (Game Panel)
 1. Navigate to the [Game Panel](https://gamepanel.hexanenetworks.com) and proceed to login.
-2. Click on **Game Services** button and if prompted select the server you would like to change the name of.
+2. Click on **Game Services** button and if prompted select the server you add the map to the FastDL of.
 3. Navigate to the **File Manager**.
 4. Navigate to the ``garrysmod/maps`` directory.
 5. Click the **Upload** button and proceed to upload the map.
