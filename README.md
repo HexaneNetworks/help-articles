@@ -28,8 +28,9 @@ We're currently not looking for additional authors, however, we may be soon if y
 # Contributors
 
 * [Hyrogenic](https://steamcommunity.com/id/Hyrogenic)
-* [havasu](https://steamcommunity.com/id/havasu)
+* [havasu](https://steamcommunity.com/id/havasu) 
 * [viction](https://steamcommunity.com/id/hasnt)
+* [InvisbleMario](https://steamcommunity.com/profiles/76561193761317588)
 
 # License
 
