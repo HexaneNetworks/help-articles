@@ -23,8 +23,9 @@ This article only covers the method to create a MilitaryRP gamemode using an FTP
 
 #### Installing the gamemode
 1. Navigate to the [Game Panel](https://gamepanel.hexanenetworks.com) and proceed to login.
-2. Navigate to the **Mod Manager** and proceed to install the latest version of DarkRP.
-3. Open up your preferred FTP client and proceed to login, if you're having trouble with this step refer to the videos in the **Relevant Links** section.
-4. Navigate to the `garrysmod/gamemodes` directory and proceed to drag in the MilitaryRP derived gamemode we prepared earlier.
-5. Proceed to follow the [Changing The Gamemode](https://help.hexanenetworks.com/garrys-mod/server-configuration/changing-the-gamemode) article set the gamemode to ``militaryrp``.
-6. Restart your server.
+2. Click on the **Game Services** button and if prompted select the server you would like to install MilitaryRP to.
+3. Navigate to the **Mod Manager** and proceed to install the latest version of DarkRP.
+4. Open up your preferred FTP client and proceed to login, if you're having trouble with this step refer to the videos in the **Relevant Links** section.
+5. Navigate to the `garrysmod/gamemodes` directory and proceed to drag in the MilitaryRP derived gamemode we prepared earlier.
+6. Proceed to follow the [Changing The Gamemode](https://help.hexanenetworks.com/garrys-mod/server-configuration/changing-the-gamemode) article set the gamemode to ``militaryrp``.
+7. Restart your server.
