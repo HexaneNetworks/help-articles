@@ -3,13 +3,13 @@ A door group allows you to whitelist a door to every Team you have specified for
 
 #### Installing DarkRPModification
 1. Navigate to the [Game Panel](https://gamepanel.hexanenetworks.com) and proceed to login.
-2. Click on **Game Services** button and if prompted select the server you would like to install DarkRPModification to.
+2. Click on the **Game Services** button and if prompted select the server you would like to install DarkRPModification to.
 3. Navigate to the **Mod Manager**.
 4. Install **DarkRP Modifications** which can be found under the **DarkRP** section.
 
 #### Method
 1. Navigate to the [Game Panel](https://gamepanel.hexanenetworks.com) and proceed to login.
-2. Click on **Game Services** button and if prompted select the server you would like to add door groups to.
+2. Click on the **Game Services** button and if prompted select the server you would like to add door groups to.
 3. Navigate to the **File Manager** and proceed to the ``garrysmod/addons/darkrpmodification/lua/darkrp_customthings`` directory.
 4. Edit the ``doorgroups.lua`` file.
 5. In a new tab, navigate to the [CSite Door Group Generator](https://csite.io/tools/gmod-darkrp-door).
