@@ -1,4 +1,7 @@
-#### Why has the method changed?
+#### I don't have FAdmin installed, how can I reset my ULX ranks?
+[Resetting Ulx Ranks Without Fadmin Installed]((https://help.hexanenetworks.com/garrys-mod/server-configuration/resetting-ulx-ranks-without-fadmin-installed))
+
+#### Why does the method differ when FAdmin is installed?
 Recently ULX was updated, if their is no data present in the `garrysmod/data` folder it now checks the sv.db table for FAdmin and pulls the data from there and updates the data folder accordingly.
 
 Unfortunately this makes resetting the ranks more difficult then before. Not only do you have to wipe the data folder but you also must modify the sv.db, which is rather risky. So going forward provided you aren't making any use of FAdmin we suggest you **disable it** in ``garrysmod/addons/darkrpmodification/lua/darkrp_config/disabled_defaults.lua``.
