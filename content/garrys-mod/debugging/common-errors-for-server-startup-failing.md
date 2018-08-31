@@ -6,7 +6,7 @@ The common errors found in the [web console](https://help.hexanenetworks.com/gam
 `Error: Couldn't change active gamemode - 'example' not found`
 
 ##### Reasoning
-This error occurs when the gamemode imputed in the commandline doesn’t exist or is broken within the `/garrysmod/gamemodes/` directory. Ensure the name imputed into the commandline manager in the `Gamemode` box is the exact same name as the folder of the gamemode in it's directory. 
+This error occurs when the gamemode imputed in the commandline doesn'tt exist or is broken within the `/garrysmod/gamemodes/` directory. Ensure the name imputed into the commandline manager in the `Gamemode` box is the exact same name as the folder of the gamemode in it's directory. 
 
 ##### Example
 
@@ -40,7 +40,7 @@ This error occurs when the gamemode imputed in the commandline doesn’t exist o
 `Error: map load failed: example not found or invalid`
 
 Reasoning
-This error occurs when the map imputed in the custom commandline doesn’t exist or is invalid in the `/garrysmod/maps/` directory. The map name may be incorrect or the map needs to be uploaded to the maps folder or mounted on via the steam workshop to be found by the server.
+This error occurs when the map imputed in the custom commandline doesn'tt exist or is invalid in the `/garrysmod/maps/` directory. The map name may be incorrect or the map needs to be uploaded to the maps folder or mounted on via the steam workshop to be found by the server.
 
 #### Resolving the Error via the Game Panel File Manager
 
