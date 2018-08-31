@@ -11,7 +11,7 @@ This article only covers the method to create a MilitaryRP gamemode using an FTP
 
 #### Preparing the gamemode
 1. Navigate to the [DerivedRP Release Page](https://github.com/FPtje/DarkRP/releases) and proceed to click on and download ``derivedrp.zip``.
-2. Using any extraction software of your choice (WinRAR is reccomended), open the ``derivedrp.zip`` file and proceed to drag the ``derivedrp`` folder to your Desktop.
+2. Using any extraction software of your choice (WinRAR is recommended), open the ``derivedrp.zip`` file and proceed to drag the ``derivedrp`` folder to your Desktop.
 3. Rename the ``derivedrp`` folder to ``militaryrp`` and proceed to open it.
 4. Rename the ``derivedrp.txt`` to ``militaryrp.txt`` and proceed to edit the file. 
 5. Replace the title field with ``"MilitaryRP"``.  
