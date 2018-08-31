@@ -1,5 +1,5 @@
 #### What is a steam account token (GSLT)?
-GSLTs is a string of text which CSGO servers require upon botting to make them appear as a public server.
+GSLTs is a string of text which CSGO servers require upon booting to make them appear as a public server.
 
 #### Creating your token.
 1. Navigate to [https://steamcommunity.com/dev/managegameservers](https://steamcommunity.com/dev/managegameservers)
