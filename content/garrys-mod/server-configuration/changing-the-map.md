@@ -9,7 +9,7 @@ This will change your startup map, in addition to this it will change the map th
 5. Navigate to the **Commandline Manager**.
 6. Click on the **Custom Commandlines** tab.
 7. Click the **New** button to create a new commandline.
-8. Refer to this article: [Commandline Manager Explained](https://help.hexanenetworks.com/garrys-mod/server-configuration/commandline-manager-explained) and edit your commandline appropiately.
+8. Refer to this article: [Commandline Manager Explained](https://help.hexanenetworks.com/garrys-mod/server-configuration/commandline-manager-explained) and edit your commandline appropriately.
 9. Change the **Startup map** to the map name that we noted down earlier, for example ``rp_downtown_v4c_v2``.
 10. Navigate back to the **Custom Commandlines** tab and ensure that commandline is **Selected**.
 11. Restart your server.
