@@ -27,6 +27,6 @@ The commandline manager for Garry's Mod allows you to edit and interact with the
 **RCon Password** = Defines the password that you must use to allow usage of the RCon.  
 **Startup map** = The map that your server will use when the server initially boots. For example ``rp_downtown_v4c_v2``.  
 **Steam API Auth Key** = The key used when setting up a Steam WorkshopDL. You can find this here: [Steam API Key](https://steamcommunity.com/dev/apikey).  
-**Tickrate** = The rate at which the server refreshes. Higher is reccomended for a lower playercount and for gamemodes such as Deathrun. Lower tickrate is reccomended for heavily intense gamemodes such as DarkRP with a fair amount of players and addons.  
+**Tickrate** = The rate at which the server refreshes. Higher is recommended for a lower playercount and for gamemodes such as Deathrun. Lower tickrate is recommended for heavily intense gamemodes such as DarkRP with a fair amount of players and addons.  
 **Workshop Collection ID** = Defines the ID of your Workshop collection that you are using for your Garry's Mod servers WorkshopDL.  
 **hunkalloclightmaps** = Used to prevent your server crashing when using large maps such as Evocity and Rockford. See relevant articles for more information.  
