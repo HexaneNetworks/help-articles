@@ -7,7 +7,7 @@ If you have removed a redirect and it is still redirecting, please clear your we
 
 #### Method
 1. Login to [cPanel](https://cpanel.hexanenetworks.com) by doing one of the following: using the login information provided in the **Web Hosting Information** email or using the CPanel shortcut in the [Billing Area](https://billing.hexanenetworks.com/)
-2. Once you are in cPanel search for **Redirects** and proceed to click on the appropiate result.
+2. Once you are in cPanel search for **Redirects** and proceed to click on the appropriate result.
 3. In the **Type** field choose whether you would like a permanent or a temporary redirect. A temporary redirect will not update the users bookmarks.
 4. In the **https?://(www.)?** field select the domain or subdomain you would like to redirect from.
 5. In the **/** field input the filepath you would like to redirect from.
@@ -18,4 +18,4 @@ If you have removed a redirect and it is still redirecting, please clear your we
 #### Example
 ![](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/png/cpanel-redirect.png)
 
-This for example, would redirect users attemping to access ``https://hexanenetworks.com/example`` to ``https://www.google.com``.
+This for example, would redirect users attempting to access ``https://hexanenetworks.com/example`` to ``https://www.google.com``.
