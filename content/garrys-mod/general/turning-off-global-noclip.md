@@ -1,5 +1,5 @@
 #### What does this do?
-This disables the default sandbox noclip, typically this is used when ULX is installed to allow ULX's noclip to act indepdently.
+This disables the default sandbox noclip, typically this is used when ULX is installed to allow ULX's noclip to act independently.
 
 #### Method
 1. Navigate to the [Game Panel](https://gamepanel.hexanenetworks.com) and proceed to login.
