@@ -1,10 +1,10 @@
 #### Where can I check my affiliate balance?
-You can view your affiliate balance at the [Affiliates](https://billing.hexanenetworks.com/affiliates.php) page. This page also tracks stats regarding your affiliate link, aswell as details regarding the refferals. As stated on the Affiliates page, you must have a minimum of **£35.00 GBP** in order to withdraw your balance.
+You can view your affiliate balance at the [Affiliates](https://billing.hexanenetworks.com/affiliates.php) page. This page also tracks stats regarding your affiliate link, as well as details regarding the referrals. As stated on the Affiliates page, you must have a minimum of **£35.00 GBP** in order to withdraw your balance.
 
 #### Method
 1. Navigate to the [Affiliates](https://billing.hexanenetworks.com/affiliates.php) page and if prompted proceed to login using your client area details.
 2. Click **Request Withdrawal**, if you are unable to click this you do not have the minimum required amount of **£35.00 GBP** in your affiliate balance.
-3. Fill out the ticket subject appropiately.
+3. Fill out the ticket subject appropriately.
 4. In the ticket body, state whether you would like to receive your affiliate balance withdrawal in the form of **Paypal** funds or **account credit**.
 5. Please include any information relevant to the withdrawal method, for example the Paypal email to send the funds to.
 
