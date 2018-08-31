@@ -7,7 +7,7 @@ In order to change to a certain gamemode, you must have that gamemode within the
 3. Navigate to the **Commandline Manager**.
 4. Click on **Custom Commandlines**.
 5. Click on the **New** button to create a new commandline.
-6. Ensure you tick **atleast** the default boxes as shown in the example below.
+6. Ensure you tick **at least** the default boxes as shown in the example below.
 7. In the **Gamemode** field input the folder name of the gamemode that you installed, this can be found in ``garrysmod/gamemodes``.
 8. Restart your server.
 
