@@ -7,4 +7,4 @@ Click [Here](https://billing.hexanenetworks.com/account/paymentmethods) to be ta
 *Credit/Debit Cards are not stored on our servers, we use an external, secure payment processor, [Stripe](https://stripe.com/gb) to handle the transactions, processing and storage.*
 
 Related Articles:
-- [Removing A Credit Or Debit Card To Your Billing Account](https://help.hexanenetworks.com/billing/general/removing-a-credit-or-debit-card-to-your-billing-account)
+- [Removing A Credit Or Debit Card To Your Billing Account](https://help.hexanenetworks.com/billing/general/removing-a-credit-or-debit-card-on-your-billing-account)
