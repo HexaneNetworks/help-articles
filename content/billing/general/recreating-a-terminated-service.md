@@ -1,0 +1,1 @@
+If you wish to start your service again and you have the invoice available as unpaid, you can pay it and have the service re-created. However, it'll be a fresh service and you'll need to contact us in order to get it re-activated. It's better to order a new service from the website as it'll be an automatic setup, if you choose to do so.
