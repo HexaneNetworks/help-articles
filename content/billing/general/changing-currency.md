@@ -1,7 +1,2 @@
-#### What currency do we use by default?
-Our default currency is in GBP. Even if you have not changed your currency, the amount you will be paying will be shown in your currency in PayPal before you make the payment.
 
-#### Method
-1. Navigate to the [Billing Area](https://billing.hexanenetworks.com/clientarea.php) and proceed to login.
-2. Navigate to the [Submit a Ticket](https://billing.hexanenetworks.com/submitticket.php) page and proceed to open a ticket in the **Billing & Invoicing** department.
-3. In the ticket explain that you would like your currency changed, then provide the currency you would like your billing area account switched to.
+Our default currency is **GBP**. Upon your first order, you'll have the option to change this. However, you can't change it after the fact yourself. Keep in mind the payment processer *(PayPal, Stripe)* will automatically convert the final amount into your own currency you use. If you wish to fully switch your billing account currency over, you can do so by [contacting us](https://billing.hexanenetworks.com/submitticket.php).
