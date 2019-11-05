@@ -1,0 +1,3 @@
+If you'd like to upgrade your game servers disk space as you've noticed your server has stopped working as  the limit has been hit, you can easily do so by reading below.
+
+Simply [click here](https://billing.hexanenetworks.com/submitticket.php) and ask us the options for a storage upgrade on a specified service you own. We'll present you the options in a reply. It'll only be a few extra pounds a month.
