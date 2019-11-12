@@ -1,0 +1,1 @@
+![Service Payment Overdue Process](https://help.hexanenetworks.com/assets/service-payment-overdue-process.png)
