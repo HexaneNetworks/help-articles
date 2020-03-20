@@ -2,7 +2,7 @@
 Addon domains allow you to use multiple domains on one web hosting package.
 
 #### Preparing your domain
-Please ensure that you have updated your domains nameservers with your domain provider to: `ns1.hexanenetworks.com` and `ns2.hexanenetworks.com`.
+Please ensure that you have updated your domains nameservers with your domain provider to: `ns1.hexaneweb.com` and `ns2.hexaneweb.com`.
 
 #### Method
 1. Login to [cPanel](https://cpanel.hexanenetworks.com) by doing one of the following: using the login information provided in the **Web Hosting Information** email or using the CPanel shortcut in the [Billing Area](https://billing.hexanenetworks.com/)
