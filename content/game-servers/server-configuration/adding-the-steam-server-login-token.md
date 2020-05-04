@@ -1,4 +1,4 @@
-#### What is a Steam Game Server Login Tokens (GSLT)?
+#### What is a Steam Game Server Login Token (GSLT)?
 It's a token (like a password) used to authenticate your server with Steam. 
 
 #### Creating your token
