@@ -18,3 +18,5 @@ TF2 = `440`
 7. Save and proceed to restart the server.
 
 Feel free to contact us if you have any questions or problems with this. 
+
+More information is locared on the Gmod Wiki regarding the tokens: https://wiki.facepunch.com/gmod/Steam_Game_Server_Accounts
