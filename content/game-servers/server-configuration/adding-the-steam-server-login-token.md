@@ -19,4 +19,4 @@ TF2 = `440`
 
 Feel free to contact us if you have any questions or problems with this. 
 
-More information is locared on the Gmod Wiki regarding the tokens: https://wiki.facepunch.com/gmod/Steam_Game_Server_Accounts
+More information is located on the Gmod Wiki regarding the tokens: https://wiki.facepunch.com/gmod/Steam_Game_Server_Accounts
