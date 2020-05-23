@@ -11,7 +11,7 @@ Articles for the Knowledge Base / Help Centre.
 
 ## Why are these here?
 
-We use GitHub as a way to allow our team to contribute easily and version control efficiency. 
+We use GitHub as a way to allow our team to contribute easily and version control efficiently. 
 
 ## What does this do?
 
