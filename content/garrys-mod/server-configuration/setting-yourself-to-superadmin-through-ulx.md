@@ -9,7 +9,9 @@ You will need both ULX and ULib installed on your Garry's Mod server, you can in
 2. Click on **Game Services** button and if prompted select the server you would like to give yourself Superadmin on.
 3. Join your server.
 4. Navigate to the **Web Console**.
-5. Enter the following command: ``ulx adduser name superadmin``. Replace ``name`` with your Steam username.
+5. Enter the following command: ``ulx adduser name superadmin``. Replace ``name`` with your Steam username.  
+    If you get an error ``Command "ulx adduser", argument #1: No target found or target has immunity!`` this is because you have typed your name incorrectly.  
+    To fix this issue you can use the command ``ulx adduserid "STEAMID" superadmin``. SteamID can be found here: [SteamID IO](https://steamid.io/)
 6. In-game type ``!menu`` in chat and it will bring up the ULX menu containing all the commands you now have access to.
 
 #### Example
