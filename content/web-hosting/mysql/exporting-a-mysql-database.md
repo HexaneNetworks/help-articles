@@ -2,7 +2,7 @@
 Exporting a MySQL database downloads a backup of the database to your system, allowing you to restore **some data** if there happens to be any data loss.
 
 #### Method
-1. Login to [cPanel](https://cpanel.hexanenetworks.com) by doing one of the following: using the login information provided in the **Web Hosting Information** email or using the cPanel shortcut in the [Billing Area](https://billing.hexanenetworks.com/)
+1. Login to [cPanel](https://cpanel.hexaneweb.com) by doing one of the following: using the login information provided in the **Web Hosting Information** email or using the cPanel shortcut in the [Billing Area](https://billing.hexanenetworks.com/)
 2. Once you are in cPanel search for **phpMyAdmin** and proceed to click on the appropriate result.
 3. In the sidebar on the left select the database you would like to export.
 4. In the navigation bar at the top head to the **Export** section.
