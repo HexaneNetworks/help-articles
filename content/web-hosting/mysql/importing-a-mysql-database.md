@@ -11,4 +11,4 @@ Importing a MySQL database allows you to import the tables from a different data
 7. Proceed to click the **Go** button to start the importing process.
 
 #### Example
-![](https://github.com/HexaneNetworks/help-assets/blob/master/assets/importing-a-database.png)
+![](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/importing-a-database.png)

@@ -11,4 +11,4 @@ Exporting a MySQL database downloads a backup of the database to your system, al
 7. Hit the **Go** button, this should produce a ``.sql`` file, this is your exported database. If you open it you will see the SQL code for the table structure and contents of the database.
 
 #### Example
-![](https://github.com/HexaneNetworks/help-assets/blob/master/assets/exporting-a-database.png)
+![](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/exporting-a-database.png)
