@@ -31,4 +31,4 @@
 10. Restart the map or server.
 
 #### Example Job
-![Job Example](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/png/example-job.png)
+![Job Example](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/example-job.png)

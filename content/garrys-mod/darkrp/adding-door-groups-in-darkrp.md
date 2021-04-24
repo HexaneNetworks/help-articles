@@ -18,4 +18,4 @@ A door group allows you to whitelist a door to every Team you have specified for
 8. Ensure that CSite says that all the required fields are filled in and proceed to copy the Door Group code and paste it into the ``doorgroups.lua`` file we have open in another tab.
 
 #### Example
-![](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/png/creating-door-groups.png)
+![](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/creating-door-groups.png)

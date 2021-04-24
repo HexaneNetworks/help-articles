@@ -12,19 +12,19 @@ Unfortunately this makes resetting the ranks more difficult then before. Not onl
 3. **Please ensure you STOP your service before you continue or you risk data corruption, you can do this by clicking the Stop button in the homepage of the gamepanel.**
 4. Navigate to the **File Manager**.
 5. Navigate to the ``garrysmod/data/ulib`` folder and proceed to delete the ``groups.txt`` file. This will be recreated with the default groups when you next launch your server.
-![](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/png/deleting-ulib-data.png)
+![](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/deleting-ulib-data.png)
 6. Navigate back to the ``garrysmod`` folder and proceed to find the ``sv.db`` file.
 7. Click on the download button on the same line as the ``sv.db`` file and proceed to drag and drop it onto your desktop.
 8. Navigate to the [SQLite Browser](https://sqlitebrowser.org/) website and proceed to download the client for your operating system, in this example we will be referring to the Windows client only, however the method shouldn't differ too much between the different clients.
 9. Run through the installation of SQLite Browser and proceed to open it.
 10. Once it is open, click the **Open Database** button in the header and proceed to select the sv.db file we downloaded earlier.
 11. Navigate to the **Browse Data** tab.
-![](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/png/opening-svdb.png)
+![](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/opening-svdb.png)
 12. In the table dropdown, proceed to select the ``FADMIN_GROUPS`` table.
 13. Click inside of the table and proceed to press **CTRL+A** to select all records.
 14. Proceed to click the **Delete Record** button in the top right of the **Browse Data** tab.
 15. Click the **Write Changes** button in the header.
-![](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/png/modify-svdb.png)
+![](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/modify-svdb.png)
 16. Close the SQLite Browser application.
 17. Navigate back to the [Game Panel](https://gamepanel.hexanenetworks.com) and proceed to login.
 18. Navigate to the **File Manager** and to the ``/garrysmod`` directory.

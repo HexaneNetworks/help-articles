@@ -25,4 +25,4 @@ RewriteRule ^(.*)$ https://your.domain/$1 [R=301,L]
 12. Click on the **AutoSSL** button and allow the process to finish.
 
 #### Example .htaccess
-![](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/png/example-htaccess.png)
+![](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/example-htaccess.png)

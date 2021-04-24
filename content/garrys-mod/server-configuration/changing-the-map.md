@@ -15,4 +15,4 @@ This will change your startup map, in addition to this it will change the map th
 11. Restart your server.
 
 #### Example
-![Example Map](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/png/startup-map.png)
+![Example Map](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/startup-map.png)

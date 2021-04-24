@@ -14,4 +14,4 @@ If you have installed ULX, running two admin addons typically isn't a good idea.
 10. Restart your server, after this process is finished, FAdmin will be disabled.
 
 #### Example
-![](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/png/disabling-fadmin.png)
+![](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/disabling-fadmin.png)

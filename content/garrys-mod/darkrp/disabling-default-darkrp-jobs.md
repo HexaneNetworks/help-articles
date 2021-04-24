@@ -14,4 +14,4 @@ Disabling the default DarkRP jobs could be something you want to do if you have 
 
 
 #### Example
-![Changing the value](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/png/disabling-default-darkrp-jobs.png)
+![Changing the value](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/disabling-default-darkrp-jobs.png)

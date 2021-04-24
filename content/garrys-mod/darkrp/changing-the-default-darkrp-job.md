@@ -15,4 +15,4 @@ In addition to this, when a player is demoted they will be reverted back to this
 9. Once the restart process has finished, rejoin your server.
 
 #### Example
-![Changing Default Job](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/png/change-default-job.png)
+![Changing Default Job](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/change-default-job.png)

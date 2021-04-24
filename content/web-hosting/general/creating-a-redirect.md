@@ -16,6 +16,6 @@ If you have removed a redirect and it is still redirecting, please clear your we
 8. Proceed to click **Add**.
 
 #### Example
-![](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/png/cpanel-redirect.png)
+![](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/cpanel-redirect.png)
 
 This for example, would redirect users attempting to access ``https://hexanenetworks.com/example`` to ``https://www.google.com``.

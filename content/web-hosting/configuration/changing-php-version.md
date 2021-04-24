@@ -13,4 +13,4 @@ We deploy each web hosting account with **PHP 7.0** by default.
 6. Click Apply.	
 
 #### Example
-![Changing PHP Version](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/png/changing-php-version.png)
+![Changing PHP Version](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/changing-php-version.png)

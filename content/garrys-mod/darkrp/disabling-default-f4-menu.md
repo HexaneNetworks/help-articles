@@ -14,4 +14,4 @@ When installing your own F4 menu, it is good practice to disable DarkRPs default
 
 
 #### Example
-![Changing the value](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/png/disabling-default-f4-menu.png)
+![Changing the value](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/disabling-default-f4-menu.png)

@@ -12,4 +12,4 @@ As different maps have different locations for the police department and more im
 8. Restart your server.
 
 #### Example
-![](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/png/jailpositions.png)
+![](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/jailpositions.png)

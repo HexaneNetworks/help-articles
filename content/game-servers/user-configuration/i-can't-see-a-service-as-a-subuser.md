@@ -10,4 +10,4 @@ Sub-Users are users that you, as the person paying for the product, can control.
 6. Ask the Sub User to reload their page.
 
 #### Example
-![Access to this service](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/png/edit-subuser-perms.png)
+![Access to this service](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/edit-subuser-perms.png)

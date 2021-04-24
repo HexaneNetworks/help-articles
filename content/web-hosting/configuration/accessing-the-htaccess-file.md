@@ -10,4 +10,4 @@ By default cPanel disables the viewing of **dotfiles**, this includes all files 
 6. Click on the ``.htaccess`` file and click on the **Edit** button in the top navigation bar.
 
 #### Example
-![](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/png/accessing-dotfiles.png)
+![](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/accessing-dotfiles.png)

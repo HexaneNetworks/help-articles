@@ -16,4 +16,4 @@ Mounting content does not provide all users with the content - it tells the user
 3. Navigate to **Configuration Files**.
 4. Click the **[ Text Editor ]** button next to the **mount.cfg** file.
 5. Your **mount.cfg** should look similar to the following image:
-![Mount.cfg](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/png/is-x-mounted.png)
+![Mount.cfg](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/is-x-mounted.png)

@@ -12,4 +12,4 @@ Please ensure that you have updated your domains nameservers with your domain pr
 5. Proceed to click the **Add Domain** button.
 
 #### Example
-![](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/png/addon-domains.png)
+![](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/addon-domains.png)

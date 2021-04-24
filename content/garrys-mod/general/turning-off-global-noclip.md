@@ -13,4 +13,4 @@ This disables the default sandbox noclip, typically this is used when ULX is ins
 9. Click **Restart**.
 
 #### Example
-![Sbox_Noclip Example](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/png/sbox_noclip.png)
+![Sbox_Noclip Example](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/sbox_noclip.png)

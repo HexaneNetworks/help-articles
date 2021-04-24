@@ -12,4 +12,4 @@ In order to change to a certain gamemode, you must have that gamemode within the
 8. Restart your server.
 
 #### Example
-![Commandline Example](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/png/gamemode-example-commandline.png)
+![Commandline Example](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/gamemode-example-commandline.png)

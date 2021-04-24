@@ -12,4 +12,4 @@ Allows them to run all the commands listed in the F1 menu for mayors, including 
 8. Restart your server.
 
 #### Example
-![](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/png/mayor-permissions.png)
+![](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/mayor-permissions.png)

@@ -9,4 +9,4 @@
 3. Navigate to the **Web Console**.
 
 #### Location of Web Console Button
-![Web Console Button](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/png/reaching-web-console.png)
+![Web Console Button](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/reaching-web-console.png)
