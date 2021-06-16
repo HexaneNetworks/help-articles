@@ -8,7 +8,7 @@ Garry's Mod changed the way you load addons into your server via a WorkshopDL. A
 ![](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/png/removing-workshop-addons.png)
 4. Proceed to take the Workshop ID from the end of the URL.
     For example the Workshop ID for `https://steamcommunity.com/sharedfiles/filedetails/?id=248302805` would be ``248302805``
-5. Navigate to the [Game Panel](https://gamepanel.hexanenetworks.com) and 
+5. Navigate to the [Game Panel](https://hexane.gg) and 
 proceed to login.
 6. Click on **Game Services** button and if prompted select the server you would like to remove a workshop addon from.
 7. Navigate to the **File Manager**. 

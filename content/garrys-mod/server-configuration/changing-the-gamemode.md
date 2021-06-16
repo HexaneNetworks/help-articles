@@ -2,7 +2,7 @@
 In order to change to a certain gamemode, you must have that gamemode within the ``garrysmod/gamemodes`` directory for this to work.
 
 #### Method
-1. Navigate to the [Game Panel](https://gamepanel.hexanenetworks.com) and proceed to login.
+1. Navigate to the [Game Panel](https://hexane.gg) and proceed to login.
 2. Click on **Game Services** button and if prompted select the server you would like to change the gamemode of.
 3. Navigate to the **Commandline Manager**.
 4. Click on **Custom Commandlines**.

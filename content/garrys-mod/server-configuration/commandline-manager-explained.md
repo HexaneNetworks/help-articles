@@ -14,7 +14,7 @@ The commandline manager for Garry's Mod allows you to edit and interact with the
 4. Both your **Gamemode** and **Startup map** must be valid for the server to boot correctly. See relevant article above.
 
 #### Reaching the Commandline Manager
-1. Navigate to the [Game Panel](https://gamepanel.hexanenetworks.com) and proceed to login.
+1. Navigate to the [Game Panel](https://hexane.gg) and proceed to login.
 2. Click on **Game Services** button and if prompted select the server you would like to reach the commandline manager for.
 3. Navigate to the **Commandline Manager**.
 4. Click on the **Custom Commandlines** tab.

@@ -3,7 +3,7 @@
 [Using WinSCP (FTP) with Garry's Mod](https://www.youtube.com/watch?v=QyBCXAaQG0Q)
 
 #### Installing DarkRPModification
-1. Navigate to the [Game Panel](https://gamepanel.hexanenetworks.com) and proceed to login.
+1. Navigate to the [Game Panel](https://hexane.gg) and proceed to login.
 3. Click on **Game Services** button and if prompted select the server you would like to install DarkRPModification to.
 4. Navigate to the **Mod Manager**.
 5. Install **DarkRP Modifications** which can be found under the **DarkRP** section.
@@ -19,7 +19,7 @@
 8. Restart the map or server.
 
 #### Method 2 (Game Panel)
-1. Navigate to the [Game Panel](https://gamepanel.hexanenetworks.com) and proceed to login.
+1. Navigate to the [Game Panel](https://hexane.gg) and proceed to login.
 2. Click on **Game Services** button and if prompted select the server you would like to add jobs to.
 3. Navigate to the **File Manager**.
 4. Navigate to ``garrysmod/addons/darkrpmodification/lua/darkrp_customthings``.
