@@ -6,7 +6,7 @@ Many of our clients use Scheduled Tasks to restart their Garry's Mod server over
 The **Start Date** conforms to the time zone listed in your **My Profile** section on the gamepanel - in order to reach and edit this see this article here: [Changing Your Timezone](https://help.hexanenetworks.com/game-servers/general/changing-your-timezone)
 
 #### Method
-1. Navigate to the [Game Panel](https://gamepanel.hexanenetworks.com) and proceed to login.
+1. Navigate to the [Game Panel](https://hexane.gg) and proceed to login.
 2. Click on **Game Services** button and if prompted select the server you would like the schedule a restart for.
 3. Navigate to the **Scheduled Tasks** tab.
 4. Click the **New** button.

@@ -8,7 +8,7 @@ GSLTs is a string of text which CSGO servers require upon booting to make them a
 ![](https://raw.githubusercontent.com/HexaneNetworks/help-assets/8d0854eaf18929c39b841ab226a7ed6e8b7d4fbf/assets/png/steamaccounttokencsgo.png)
 
 #### Adding your token to the server.
-1. Login to the [Game Panel](https://gamepanel.hexanenetworks.com)
+1. Login to the [Game Panel](https://hexane.gg)
 2. Navigate to **Game Services**
 	(If you have multiple servers, select the one you wish to apply the token to)
 3. Click on the **Commandline Manager**.

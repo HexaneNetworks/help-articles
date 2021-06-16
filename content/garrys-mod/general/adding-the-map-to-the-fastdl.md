@@ -12,13 +12,13 @@ When players join your server, during the loading process they will download the
 3. Drag the file inside of the maps folder to your Desktop, this file should end in **.bsp** if you have file extensions enabled.
 
 #### Uploading and synchronizing the map (Game Panel)
-1. Navigate to the [Game Panel](https://gamepanel.hexanenetworks.com) and proceed to login.
+1. Navigate to the [Game Panel](https://hexane.gg) and proceed to login.
 2. Click on **Game Services** button and if prompted select the server you add the map to the FastDL of.
 3. Navigate to the **File Manager**.
 4. Navigate to the ``garrysmod/maps`` directory.
 5. Click the **Upload** button and proceed to upload the map.
 ![Upload location](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/uploading-map-gamepanel.png)
-6. Return to the [Game Panel](https://gamepanel.hexanenetworks.com).
+6. Return to the [Game Panel](https://hexane.gg).
 7. Click the **Fast Downloads Sync** button.
 8. Wait until the console states that the synchronization has finished, this may take a while.
 9. Restart your server.
@@ -28,7 +28,7 @@ When players join your server, during the loading process they will download the
 2. Navigate to the ``garrysmod/maps`` directory.
 ![Upload location](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/uploading-map-ftp.png)
 3. Drag the map file we prepared earlier into that directory and wait for the transfer to finish.
-4. Navigate to the [Game Panel](https://gamepanel.hexanenetworks.com) and proceed to login.
+4. Navigate to the [Game Panel](https://hexane.gg) and proceed to login.
 5. Click the **Fast Downloads Sync** button.
 6. Wait until the console states that the synchronization has finished, this may take a while.
 7. Restart your server.

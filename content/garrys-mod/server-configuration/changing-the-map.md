@@ -2,7 +2,7 @@
 This will change your startup map, in addition to this it will change the map that your server is listing as using in the Garry's Mod server list.
 
 #### Method
-1. Navigate to the [Game Panel](https://gamepanel.hexanenetworks.com) and proceed to login.
+1. Navigate to the [Game Panel](https://hexane.gg) and proceed to login.
 2. Click on **Game Services** button and if prompted select the server you would like to change the map of.
 3. Navigate to the ``garrysmod/maps`` directory and find the file of the map you installed in there.
 4. Note down the filename of the map **without** the ``.bsp`` file extension. For example ``rp_downtown_v4c_v2``.

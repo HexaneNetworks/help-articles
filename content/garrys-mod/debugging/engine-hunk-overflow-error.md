@@ -3,7 +3,7 @@ Engine Hunk Overflow is when the map which the server is attempting to load is l
 You'll see this error in the servers web console if you have this problem: `engine hunk overflow`
 
 #### Solution to fix via the Game Panel
-1. Login to the [Game Panel](https://gamepanel.hexanenetworks.com)
+1. Login to the [Game Panel](https://hexane.gg)
 2. Navigate to the **Game Services**
 	(If you have multiple servers, select the one you wish to apply the fix)
 3. Click on the **Commandline Manager**.

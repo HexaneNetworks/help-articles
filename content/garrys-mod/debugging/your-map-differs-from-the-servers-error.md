@@ -21,7 +21,7 @@ The "Your map differs from the server" error is produced when a player tries to 
 5. Reconnect to the server.
 
 #### Method - For the Server Owner
-1. Navigate to the [Game Panel](https://gamepanel.hexanenetworks.com) and proceed to login.
+1. Navigate to the [Game Panel](https://hexane.gg) and proceed to login.
 2. Click on **Game Services** button and if prompted select the server you would like to apply the fix to.
 3. Navigate to the **File Manager**
 4. Navigate to the ``garrysmod/maps`` directory.

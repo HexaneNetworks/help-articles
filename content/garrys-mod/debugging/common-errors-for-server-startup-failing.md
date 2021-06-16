@@ -26,7 +26,7 @@ This error occurs when the gamemode imputed in the commandline doesn'tt exist 
 
 #### Resolving the Error via the Game Panel File Manager
 
-1. Login to the [Game Panel](https://gamepanel.hexanenetworks.com)
+1. Login to the [Game Panel](https://hexane.gg)
 2. Navigate to the **Game Services**
 	(If you have multiple servers, select the one you wish to apply the fix)
 3. Click on the **Commandline Manager**.
@@ -44,7 +44,7 @@ This error occurs when the map imputed in the custom commandline doesn'tt exis
 
 #### Resolving the Error via the Game Panel File Manager
 
-1. Login to the [Game Panel](https://gamepanel.hexanenetworks.com)
+1. Login to the [Game Panel](https://hexane.gg)
 2. Navigate to the **Game Services**
 	(If you have multiple servers, select the one you wish to apply the fix)
 3. Click on the **Commandline Manager**.
