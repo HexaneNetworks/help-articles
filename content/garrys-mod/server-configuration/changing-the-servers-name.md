@@ -2,7 +2,7 @@
 This will change the name it is listed under in both the Server List and the Legacy Browser. 
 
 #### Method
-1. Navigate to the [Game Panel](https://gamepanel.hexanenetworks.com) and proceed to login.
+1. Navigate to the [Game Panel](https://hexane.gg) and proceed to login.
 2. Click on **Game Services** button and if prompted select the server you would like to change the name of.
 3. Navigate to **Configuration Files**.
 4. Edit the ``server.cfg`` file.

@@ -5,7 +5,7 @@ This will remove all customizations that have been made to the server, and all p
 **NOTE: Reinstalling your server CAN NOT be reversed**
 
 #### Method
-1. Navigate to our [Game Panel](https://gamepanel.hexanenetworks.com) and login.
+1. Navigate to our [Game Panel](https://hexane.gg) and login.
 2. Navigate to **Game Services** (If you have multiple servers, select the one you wish to re-install)
 3. Click the **Actions** tab.
 4. Proceed to click **Reinstall**.

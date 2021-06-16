@@ -2,7 +2,7 @@
 It disables the collisions between players and vehicles, as a result players can walk through vehicles and take no damage from impact. This is the most effective way of mitigating the ability for cars to kill players.
 
 #### Method
-1. Navigate to the [Game Panel](https://gamepanel.hexanenetworks.com) and 
+1. Navigate to the [Game Panel](https://hexane.gg) and 
 proceed to login.
 2. Click on **Game Services** button and if prompted select the server you would like to disable vehicle collisions on.
 3. Navigate to the **File Manager**.
@@ -17,7 +17,7 @@ hook.Add("PlayerSpawnedVehicle","DisableCollisionVehicle", function(ply, ent)
 end)
 ```
 7. Click the **Save** button.
-8. Navigate back to the [Game Panel](https://gamepanel.hexanenetworks.com).
+8. Navigate back to the [Game Panel](https://hexane.gg).
 9. Restart your server.
 
 #### Example

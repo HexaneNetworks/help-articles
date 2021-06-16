@@ -1,6 +1,6 @@
 Updating your Team Fortress 2 server is a simple process which will only take a few minutes.
 
- 1. Login to the [Game Panel](https://gamepanel.hexanenetworks.com)
+ 1. Login to the [Game Panel](https://hexane.gg)
  2. Navigate to the **Game Services**
 	(If you have multiple servers, select the one you wish to update)
  3. Click the **Steam Updater** Button

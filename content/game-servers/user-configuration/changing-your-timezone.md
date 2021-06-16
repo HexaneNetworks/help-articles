@@ -2,7 +2,7 @@
 Changing your timezone changes the timezone that our gamepanel uses when listing any times for you. This impacts the times on scheduled restarts for example.
 
 #### Method (Game Panel)
-1. Navigate to the [Game Panel](https://gamepanel.hexanenetworks.com) and 
+1. Navigate to the [Game Panel](https://hexane.gg) and 
 proceed to login.
 2. Click on the **My Profile** button.
 3. Navigate to the **Time Zone** drop down.
