@@ -12,4 +12,4 @@ This allows you to take an internet speedtest of your server running [Ubuntu 16.
 1. Run the command `speedtest-cli`
 
 #### Usage Example
-![Running a Speedtest on Ubuntu 16.04](https://github.com/HexaneNetworks/help-assets/blob/master/assets/png/running-speedtest-on-ubuntu-16.04.png?raw=true)
+![Running a Speedtest on Ubuntu 16.04](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/running-speedtest-on-ubuntu-16.04.png)

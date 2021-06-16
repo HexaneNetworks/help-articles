@@ -6,6 +6,6 @@ A domain name is the identification string to access a website, you will often s
 Yes, you will need a live domain name you own, to use our web hosting. You can purchase a domain from sites such as [GoDaddy](https://uk.godaddy.com) or [NameCheap](https://www.namecheap.com). We recommend a `.com` domain. You pay yearly for a domain which works out to be affordable for most people (prices start at around £10).
 
 #### Domain Name Example
-![Domain Name Example](https://github.com/HexaneNetworks/help-assets/blob/master/assets/png/domain-names.png?raw=true)
+![Domain Name Example](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/domain-names.png)
 
 Inside the red box is our domain name. 

@@ -1,3 +1,4 @@
 #### Hexane Networks Staff Team
 
-https://www.hexanenetworks.com/staff
+## CEO
+[Hyro](https://steamcommunity.com/id/Hyrogenic/)
