@@ -31,11 +31,7 @@ We're currently not looking for additional authors, however, we may be soon if y
 
 ## Contributors
 
-* [Hyrogenic](https://steamcommunity.com/id/Hyrogenic) - Active
-* havasu - 2017-2018
-* viction - 2018
-* Bucket - 2018
-* Nathan - 2018
+[Here](https://github.com/HexaneNetworks/help-articles/graphs/contributors)
 
 ## License
 
