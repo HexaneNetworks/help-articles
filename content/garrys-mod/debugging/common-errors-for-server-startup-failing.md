@@ -12,15 +12,15 @@ This error occurs when the gamemode imputed in the commandline doesn'tt exist 
 
 **Incorrect** name used in the commandline manager for the DarkRP gamemode. 
 
-![Gamemode Error Example Image Incorrect](https://github.com/HexaneNetworks/help-assets/blob/38ed262d4f2a8ab9b00a76a7235a2f7ac9c72601/assets/png/gamemode-error-commandline-wrong.png?raw=true)
+![Gamemode Error Example Image Incorrect](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/gamemode-error-commandline-wrong.png)
 
 **Correct** name used in the commandline manager for the DarkRP gamemode. 
 
-![Gamemode Error Example Image Correct](https://github.com/HexaneNetworks/help-assets/blob/38ed262d4f2a8ab9b00a76a7235a2f7ac9c72601/assets/png/gamemode-error-commandline-correct.png?raw=true)
+![Gamemode Error Example Image Correct](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/gamemode-error-commandline-correct.png)
 
 **Folder Name** for the DarkRP Gamemode located in `/garrysmod/gamemodes/`
 
-![Gamemode Error Example Image File Directory](https://github.com/HexaneNetworks/help-assets/blob/38ed262d4f2a8ab9b00a76a7235a2f7ac9c72601/assets/png/gamemode-error-filemanager-foldername.png?raw=true)
+![Gamemode Error Example Image File Directory](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/gamemode-error-filemanager-foldername.png)
 
 
 
