@@ -10,5 +10,5 @@ Recently the ULX addon was updated, if their is missing data in ULib's data fold
 3. **Please ensure you STOP your service before you continue or you risk data corruption, you can do this by clicking the Stop button in the homepage of the gamepanel.**
 4. Navigate to the **File Manager**.
 5. Navigate to the ``garrysmod/data/ulib`` folder and proceed to delete the ``groups.txt`` file. This will be recreated with the default groups when you next launch your server.
-![](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/png/deleting-ulib-data.png)
+![](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/deleting-ulib-data.png)
 6. Navigate to the [Game Panel](https://hexane.gg) and click the **Start** button to boot your server up.

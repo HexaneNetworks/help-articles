@@ -16,4 +16,4 @@ Gametracker is a website that provides a server list for a large variety of game
 8. Click the **Add Server** button.
 
 #### Example
-![Gametracker Example](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/png/gametracker-example.png)
+![Gametracker Example](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/gametracker-example.png)

@@ -15,10 +15,10 @@ This article only covers the method to create a StarwarsRP gamemode using an FTP
 3. Rename the ``derivedrp`` folder to ``starwarsrp`` and proceed to open it.
 4. Rename the ``derivedrp.txt`` to ``starwarsrp.txt`` and proceed to edit the file. 
 5. Replace the title field with ``"StarwarsRP"``.  
-![](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/png/starwarsrp-txt.png)  
+![](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/starwarsrp-txt.png)  
 6. Navigate back into the ``derivedrp`` folder and proceed to open the ``gamemode`` folder.
 7. Edit both the ``cl_init.lua`` and the ``init.lua`` and proceed to change the ``GM.Name`` to ``StarwarsRP``.
-![](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/png/starwars-init-lua.png)
+![](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/starwars-init-lua.png)
 
 
 #### Installing the gamemode

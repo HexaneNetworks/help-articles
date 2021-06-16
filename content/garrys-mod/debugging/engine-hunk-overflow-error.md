@@ -13,4 +13,4 @@ You'll see this error in the servers web console if you have this problem: `engi
 7. Save and proceed to restart the server
 
 #### Example
-![Engine Hunk Overflow](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/png/hunkalloclightmaps.png)
+![Engine Hunk Overflow](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/hunkalloclightmaps.png)

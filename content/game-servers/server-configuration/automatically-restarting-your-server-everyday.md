@@ -19,4 +19,4 @@ The **Start Date** conforms to the time zone listed in your **My Profile** secti
 11. Click **Save**.
 
 #### Example
-![Scheduled Restart](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/png/daily-restart.png)
+![Scheduled Restart](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/daily-restart.png)

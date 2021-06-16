@@ -21,4 +21,4 @@ end)
 9. Restart your server.
 
 #### Example
-![](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/png/disable_vehicle_collisions.png)
+![](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/disable_vehicle_collisions.png)

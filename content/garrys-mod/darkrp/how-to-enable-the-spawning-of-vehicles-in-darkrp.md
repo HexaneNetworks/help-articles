@@ -21,4 +21,4 @@ proceed to login.
 **3** - Allows the spawning of vehicles via the RCON only.
 
 #### Example
-![Enable Spawning of Vehicles in DarkRP](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/png/adminvehicles.png)
+![Enable Spawning of Vehicles in DarkRP](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/adminvehicles.png)

@@ -15,10 +15,10 @@ This article only covers the method to create a MilitaryRP gamemode using an FTP
 3. Rename the ``derivedrp`` folder to ``militaryrp`` and proceed to open it.
 4. Rename the ``derivedrp.txt`` to ``militaryrp.txt`` and proceed to edit the file. 
 5. Replace the title field with ``"MilitaryRP"``.  
-![](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/png/militaryrp-txt.png)  
+![](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/militaryrp-txt.png)  
 6. Navigate back into the ``derivedrp`` folder and proceed to open the ``gamemode`` folder.
 7. Edit both the ``cl_init.lua`` and the ``init.lua`` and proceed to change the ``GM.Name`` to ``MilitaryRP``.
-![](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/png/init-lua.png)
+![](https://raw.githubusercontent.com/HexaneNetworks/help-assets/master/assets/init-lua.png)
 
 
 #### Installing the gamemode
